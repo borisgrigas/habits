@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-
+- [Viisite o projeto online](https://borisgrigas.github.io/habits/)
 
 ## 🔖 Layout
 
